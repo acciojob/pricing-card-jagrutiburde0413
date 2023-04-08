@@ -1,13 +1,11 @@
 /*  your css code here. If applicable */
 body{
-
-
 	background-color:rgb(241,241,241);
-}
-.main{
 	padding:50px;
 }
-div{
+
+.main{
+	margin:0;
 	display:flex;
 	flex-flow:row wrap;
 	justify-content:center;
