@@ -1,8 +1,11 @@
 /*  your css code here. If applicable */
 body{
-width:600px;
-	height:1200px;
-marging:50px;
+
+
+	background-color:rgb(241,241,241);
+}
+.main{
+	padding:50px;
 }
 div{
 	display:flex;
@@ -29,4 +32,6 @@ button{
 	border-radius:20px;
 	background-color:rgb(254,98,90);
 	border:none;
+	font-size:24px;
+	color:white;
 }
