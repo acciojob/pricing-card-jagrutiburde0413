@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body{
+width:600px;
+	height:1200px;
+marging:50px;
+}
+div{
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:center;
+	align-item:center;
+}
+img{
+	width:500px;
+}
+.one{
+	font-size:90px;
+}
+.two{
+	font-size:45px;
+}
+.three{
+	
+	font-size:45px;
+}
+button{
+	width:200px;
+	height:80px;
+	border-radius:20px;
+	background-color:rgb(254,98,90);
+	border:none;
+}
